@@ -142,30 +142,8 @@ button {
 header .head {
   display: flex;
 }
-header .head .head-date,
-header .head .head-support {
-  width: 17%;
-  font-size: 15px;
-  font-family: "Roboto";
-  color: #7a7a7a;
-  line-height: 1.2;
-}
-header .head .head-date {
-  text-align: left;
-}
-header .head .head-support {
-  text-align: right;
-  text-transform: uppercase;
-}
-header .head .head-support a {
-  text-decoration: none;
-  font-size: 15px;
-  font-family: "Roboto";
-  color: #7a7a7a;
-  line-height: 1.2;
-}
 header .head .logo {
-  width: 66%;
+  width: 100%;
   text-align: center;
 }
 header .head .symbol-logo {
